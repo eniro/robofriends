@@ -1,6 +1,6 @@
 project's url: https://eniro.github.io/robofriends/
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/robo.jpg)
+<img src = "robo.jpg"></img>
 
 
 This project was bootstrapped with Create React App. 
