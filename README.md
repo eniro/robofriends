@@ -1,6 +1,6 @@
 project's url: https://eniro.github.io/robofriends/
 
-[img](https://github.com/eniro/robofriends/blob/master/robo.JPG)
+![robofriends screenshot](https://github.com/eniro/robofriends/blob/master/robo.JPG)
 
 
 This project was bootstrapped with Create React App. 
