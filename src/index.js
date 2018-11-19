@@ -13,7 +13,7 @@ const logger = createLogger();
 const store = createStore(searchRobots, applyMiddleware(logger));
 
 
-//ReactDOM.render(
+ReactDOM.render(
                 <Provider store={store}>
                     <App />
                 </Provider>, document.getElementById('root'));
